@@ -1,5 +1,6 @@
 package Event.EventHalloween.HalloweenGui 
 {
+	// đây là đoạn code GUI Halloween
 	import Data.ConfigJSON;
 	import Event.EventHalloween.HalloweenLogic.HalloweenMgr;
 	import Event.EventHalloween.HalloweenPackage.SendTrickOrTreat;
